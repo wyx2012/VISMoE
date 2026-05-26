@@ -1,4 +1,4 @@
-# vISMoE: Cross-Species Translation Efficiency Prediction
+# VisMoE: Cross-Species Translation Efficiency Prediction
 
 This repository implements a **Mixture-of-Experts (MoE)** framework designed for predicting RNA Translation Efficiency (TE). It features a novel **Visiting Expert Strategy** to handle cross-species knowledge transfer (e.g., from Mouse to Human) and addresses domain shift in biological sequences.
 
